@@ -45,7 +45,7 @@ while True:
         turn_time = 0
         continue
 
-    #회전한 이후 정면에 가보지 않은 칸이 없거나 바다인 경우
+    #회전한 이후 정면에 가보지 않은 칸이 없거나 바다인 경우~
     else:
         turn_time += 1
     
